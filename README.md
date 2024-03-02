@@ -1,7 +1,7 @@
 # SuperCompression
 A python library for image compression using Machine Learning
 
-## Models
+## Super Resolution Models
 There are currently 4 different SR models supported in the module. They can all upscale images by a scale of 2, 3 and 4. LapSRN can even upscale by a factor of 8. They differ in accuracy, size and speed.
 
 - EDSR [1]. This is the best performing model. However, it is also the biggest model and therefor has the biggest file size and slowest inference. You can download it [here](https://github.com/Saafke/EDSR_Tensorflow/tree/master/models).

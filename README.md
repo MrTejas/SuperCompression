@@ -22,3 +22,6 @@ There are currently 4 different SR models supported in the module. They can all 
 ## Article Links
 
 1. [Deep Learning based Super Resolution with OpenCV](https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066)
+
+## To try
+- [Single Image Super Resolution using GANs](https://arxiv.org/pdf/1609.04802.pdf)
